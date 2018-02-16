@@ -3,7 +3,7 @@ Project allows to store and search documents that are represented as items with 
 As server-side system is being used spring-boot.
 For client purpose that communicates over HTTP protocol - Swagger UI.
 
-Installation :
+Installation:
 1)download project
 2)install maven
 3)open main folder (exercise) - execute "mvn clean install"
